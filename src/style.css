@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+  overflow: hidden; /* Hide scrollbars */
+  background-color: #1e1e1e;
+}
+
+#app {
+  width: 100vw;
+  height: 100vh;
+}
